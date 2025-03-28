@@ -1,7 +1,7 @@
 # 基于 Tailwind CSS 和 Shadcn UI 的专业 SaaS 模板
 
 <p align="center">
-  <a href="https://react-saas.com"><img height="300" src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Next.js SaaS 模板"></a>
+  <a href="https://127.0.0.1:3000"><img height="300" src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Next.js SaaS 模板"></a>
 </p>
 
 🚀 **SaaS 模板**是一个功能强大且完全可定制的模板，用于快速启动您的 SaaS 应用程序。它使用 **Next.js** 和 **Tailwind CSS** 构建，并集成了 **Shadcn UI** 的模块化 UI 组件。这个 **Next.js SaaS 模板**可以帮助您以最少的工作量快速构建和启动 SaaS。
@@ -12,7 +12,7 @@
 
 无论您是构建新的 SaaS 应用还是寻找灵活的、**生产就绪的 SaaS 模板**，这个模板都能满足您的需求。这个专业的启动套件包含了您需要的一切，可以加速您的开发并轻松扩展您的产品。
 
-克隆这个项目并用它创建您自己的 SaaS。您可以在 [SaaS 模板](https://react-saas.com) 查看在线演示，这是一个具有工作中的身份验证和多租户系统的演示。
+克隆这个项目并用它创建您自己的 SaaS。您可以在 [SaaS 模板](https://127.0.0.1:3000) 查看在线演示，这是一个具有工作中的身份验证和多租户系统的演示。
 
 ### 特性
 
@@ -77,8 +77,6 @@
 在本地环境中运行以下命令：
 
 ```shell
-git clone --depth=1 https://github.com/Your Name/SaaS-Boilerplate.git my-project-name
-cd my-project-name
 npm install
 ```
 
@@ -168,11 +166,3 @@ CLERK_SECRET_KEY=your_clerk_secret_key
 基于 MIT 许可证，版权所有 © 2024
 
 更多信息请参见 [LICENSE](LICENSE)。
-
----
-
-由 [CreativeDesignsGuru](https://creativedesignsguru.com) 用 ♥ 制作 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Your Name)](https://twitter.com/Your Name)
-
-寻找定制模板来启动您的项目？我很乐意讨论如何帮助您构建一个。随时通过 contact@creativedesignsguru.com 联系我！
-
-[![赞助 Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://github.com/sponsors/Your Name)

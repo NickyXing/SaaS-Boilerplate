@@ -1,7 +1,7 @@
 # Free and Open Source SaaS Template with Tailwind CSS and Shadcn UI
 
 <p align="center">
-  <a href="https://react-saas.com"><img height="300" src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Next.js SaaS Template"></a>
+  <a href="https://127.0.0.1:3000"><img height="300" src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Next.js SaaS Template"></a>
 </p>
 
 🚀 **SaaS Template** is a powerful and fully customizable template to kickstart your SaaS applications. Built with **Next.js** and **Tailwind CSS**, and the modular UI components of **Shadcn UI**. This **Next.js SaaS Template** helps you to quickly build and launch SaaS with minimal effort.
@@ -12,7 +12,7 @@ Designed with developers in mind, this **Next.js Starter Kit** uses TypeScript f
 
 Whether you're building a new SaaS app or looking for a flexible, **production-ready SaaS template**, this boilerplate has you covered. This professional starter kit has everything you need to accelerate your development and scale your product with ease.
 
-Clone this project and use it to create your own SaaS. You can check the live demo at [SaaS Template](https://react-saas.com), which is a demo with a working authentication and multi-tenancy system.
+Clone this project and use it to create your own SaaS. You can check the live demo at [SaaS Template](https://127.0.0.1:3000), which is a demo with a working authentication and multi-tenancy system.
 
 ## Sponsors
 
@@ -80,19 +80,19 @@ Clone this project and use it to create your own SaaS. You can check the live de
 
 ### Demo
 
-**Live demo: [SaaS Template](https://react-saas.com)**
+**Live demo: [SaaS Template](https://127.0.0.1:3000)**
 
 | Landing Page | User Dashboard |
 | --- | --- |
-| [![Next.js Boilerplate SaaS Landing Page](public/assets/images/nextjs-boilerplate-saas-landing-page.png)](https://react-saas.com) | [![Next.js Boilerplate SaaS User Dashboard](public/assets/images/nextjs-boilerplate-saas-user-dashboard.png)](https://react-saas.com/dashboard) |
+| [![Next.js Boilerplate SaaS Landing Page](public/assets/images/nextjs-boilerplate-saas-landing-page.png)](https://127.0.0.1:3000) | [![Next.js Boilerplate SaaS User Dashboard](public/assets/images/nextjs-boilerplate-saas-user-dashboard.png)](https://127.0.0.1:3000/dashboard) |
 
 | Team Management | User Profile |
 | --- | --- |
-| [![Next.js Boilerplate SaaS Team Management](public/assets/images/nextjs-boilerplate-saas-multi-tenancy.png)](https://react-saas.com/dashboard/organization-profile/organization-members) | [![Next.js Boilerplate SaaS User Profile](public/assets/images/nextjs-boilerplate-saas-user-profile.png)](https://react-saas.com/dashboard/user-profile) |
+| [![Next.js Boilerplate SaaS Team Management](public/assets/images/nextjs-boilerplate-saas-multi-tenancy.png)](https://127.0.0.1:3000/dashboard/organization-profile/organization-members) | [![Next.js Boilerplate SaaS User Profile](public/assets/images/nextjs-boilerplate-saas-user-profile.png)](https://127.0.0.1:3000/dashboard/user-profile) |
 
 | Sign Up | Sign In |
 | --- | --- |
-| [![Next.js Boilerplate SaaS Sign Up](public/assets/images/nextjs-boilerplate-saas-sign-up.png)](https://react-saas.com/sign-up) | [![Next.js Boilerplate SaaS Sign In](public/assets/images/nextjs-boilerplate-saas-sign-in.png)](https://react-saas.com/sign-in) |
+| [![Next.js Boilerplate SaaS Sign Up](public/assets/images/nextjs-boilerplate-saas-sign-up.png)](https://127.0.0.1:3000/sign-up) | [![Next.js Boilerplate SaaS Sign In](public/assets/images/nextjs-boilerplate-saas-sign-in.png)](https://127.0.0.1:3000/sign-in) |
 
 | Landing Page with Dark Mode (Pro Version) | User Dashboard with Dark Mode (Pro Version) |
 | --- | --- |
