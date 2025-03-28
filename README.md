@@ -1,18 +1,18 @@
-# Free and Open Source SaaS Boilerplate with Tailwind CSS and Shadcn UI
+# Free and Open Source SaaS Template with Tailwind CSS and Shadcn UI
 
 <p align="center">
   <a href="https://react-saas.com"><img height="300" src="public/assets/images/nextjs-starter-banner.png?raw=true" alt="Next.js SaaS Template"></a>
 </p>
 
-🚀 **SaaS Boilerplate** is a powerful and fully customizable template to kickstart your SaaS applications. Built with **Next.js** and **Tailwind CSS**, and the modular UI components of **Shadcn UI**. This **Next.js SaaS Template** helps you to quickly build and launch SaaS with minimal effort.
+🚀 **SaaS Template** is a powerful and fully customizable template to kickstart your SaaS applications. Built with **Next.js** and **Tailwind CSS**, and the modular UI components of **Shadcn UI**. This **Next.js SaaS Template** helps you to quickly build and launch SaaS with minimal effort.
 
 Packed with essential features like built-in **Authentication**, **Multi-Tenancy** with Team support, **Role & Permission**, Database, I18n (internationalization), Landing Page, User Dashboard, Form handling, SEO optimization, Logging, Error reporting with [Sentry](https://sentry.io/for/nextjs/?utm_source=github&utm_medium=paid-community&utm_campaign=general-fy25q1-nextjs&utm_content=github-banner-nextjsboilerplate-logo), Testing, Deployment, Monitoring, and **User Impersonation**, this SaaS template provides everything you need to get started.
 
 Designed with developers in mind, this **Next.js Starter Kit** uses TypeScript for type safety and integrates ESLint to maintain code quality, along with Prettier for consistent code formatting. The testing suite combines Vitest and React Testing Library for robust unit testing, while Playwright handles integration and E2E testing. Continuous integration and deployment are managed via GitHub Actions. For user management, authentication is handled by [Clerk](https://go.clerk.com/zGlzydF). For database operations, it uses Drizzle ORM for type-safe database management across popular databases like PostgreSQL, SQLite, and MySQL.
 
-Whether you're building a new SaaS app or looking for a flexible, **production-ready SaaS template**, this boilerplate has you covered. This free, open-source starter kit has everything you need to accelerate your development and scale your product with ease.
+Whether you're building a new SaaS app or looking for a flexible, **production-ready SaaS template**, this boilerplate has you covered. This professional starter kit has everything you need to accelerate your development and scale your product with ease.
 
-Clone this project and use it to create your own SaaS. You can check the live demo at [SaaS Boilerplate](https://react-saas.com), which is a demo with a working authentication and multi-tenancy system.
+Clone this project and use it to create your own SaaS. You can check the live demo at [SaaS Template](https://react-saas.com), which is a demo with a working authentication and multi-tenancy system.
 
 ## Sponsors
 
@@ -21,9 +21,9 @@ Clone this project and use it to create your own SaaS. You can check the live de
     <td align="center" width="33%">
       <a href="https://go.clerk.com/zGlzydF">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ixartz/SaaS-Boilerplate/assets/1328388/6fb61971-3bf1-4580-98a0-10bd3f1040a2">
-          <source media="(prefers-color-scheme: light)" srcset="https://github.com/ixartz/SaaS-Boilerplate/assets/1328388/f80a8bb5-66da-4772-ad36-5fabc5b02c60">
-          <img alt="Clerk – Authentication & User Management for Next.js" src="https://github.com/ixartz/SaaS-Boilerplate/assets/1328388/f80a8bb5-66da-4772-ad36-5fabc5b02c60">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Your Name/SaaS-Boilerplate/assets/1328388/6fb61971-3bf1-4580-98a0-10bd3f1040a2">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/Your Name/SaaS-Boilerplate/assets/1328388/f80a8bb5-66da-4772-ad36-5fabc5b02c60">
+          <img alt="Clerk – Authentication & User Management for Next.js" src="https://github.com/Your Name/SaaS-Boilerplate/assets/1328388/f80a8bb5-66da-4772-ad36-5fabc5b02c60">
         </picture>
       </a>
     </td>
@@ -65,7 +65,7 @@ Clone this project and use it to create your own SaaS. You can check the live de
     </td>
     <td align="center" style=width="33%">
       <a href="https://nextjs-boilerplate.com/pro-saas-starter-kit">
-        <img src="public/assets/images/nextjs-boilerplate-saas.png?raw=true" alt="Next.js SaaS Boilerplate with React" />
+        <img src="public/assets/images/nextjs-boilerplate-saas.png?raw=true" alt="Next.js SaaS Template with React" />
       </a>
     </td>
   </tr>
@@ -80,7 +80,7 @@ Clone this project and use it to create your own SaaS. You can check the live de
 
 ### Demo
 
-**Live demo: [SaaS Boilerplate](https://react-saas.com)**
+**Live demo: [SaaS Template](https://react-saas.com)**
 
 | Landing Page | User Dashboard |
 | --- | --- |
@@ -172,7 +172,7 @@ Built-in feature from Next.js:
 Run the following command on your local environment:
 
 ```shell
-git clone --depth=1 https://github.com/ixartz/SaaS-Boilerplate.git my-project-name
+git clone --depth=1 https://github.com/Your Name/SaaS-Boilerplate.git my-project-name
 cd my-project-name
 npm install
 ```
@@ -244,7 +244,7 @@ After defining the environment variables in your GitHub Actions, your localizati
 
 ### Customization
 
-You can easily configure Next.js SaaS Boilerplate by searching the entire project for `FIXME:` to make quick customization. Here are some of the most important files to customize:
+You can easily configure Next.js SaaS Template by searching the entire project for `FIXME:` to make quick customization. Here are some of the most important files to customize:
 
 - `public/apple-touch-icon.png`, `public/favicon.ico`, `public/favicon-16x16.png` and `public/favicon-32x32.png`: your website favicon
 - `src/utils/AppConfig.ts`: configuration file
@@ -374,7 +374,7 @@ This command starts a local server using the production build. You can now open 
 
 ### Error Monitoring
 
-The project uses [Sentry](https://sentry.io/for/nextjs/?utm_source=github&utm_medium=paid-community&utm_campaign=general-fy25q1-nextjs&utm_content=github-banner-nextjsboilerplate-logo) to monitor errors. In the development environment, no additional setup is needed: NextJS SaaS Boilerplate is pre-configured to use Sentry and Spotlight (Sentry for Development). All errors will automatically be sent to your local Spotlight instance, allowing you to experience Sentry locally.
+The project uses [Sentry](https://sentry.io/for/nextjs/?utm_source=github&utm_medium=paid-community&utm_campaign=general-fy25q1-nextjs&utm_content=github-banner-nextjsboilerplate-logo) to monitor errors. In the development environment, no additional setup is needed: NextJS SaaS Template is pre-configured to use Sentry and Spotlight (Sentry for Development). All errors will automatically be sent to your local Spotlight instance, allowing you to experience Sentry locally.
 
 For production environment, you'll need to create a Sentry account and a new project. Then, in `next.config.mjs`, you need to update the `org` and `project` attributes in `withSentryConfig` function. Additionally, add your Sentry DSN to `sentry.client.config.ts`, `sentry.edge.config.ts` and `sentry.server.config.ts`.
 
@@ -447,9 +447,9 @@ See [LICENSE](LICENSE) for more information.
     <td align="center" width="33%">
       <a href="https://go.clerk.com/zGlzydF">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ixartz/SaaS-Boilerplate/assets/1328388/6fb61971-3bf1-4580-98a0-10bd3f1040a2">
-          <source media="(prefers-color-scheme: light)" srcset="https://github.com/ixartz/SaaS-Boilerplate/assets/1328388/f80a8bb5-66da-4772-ad36-5fabc5b02c60">
-          <img alt="Clerk – Authentication & User Management for Next.js" src="https://github.com/ixartz/SaaS-Boilerplate/assets/1328388/f80a8bb5-66da-4772-ad36-5fabc5b02c60">
+          <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Your Name/SaaS-Boilerplate/assets/1328388/6fb61971-3bf1-4580-98a0-10bd3f1040a2">
+          <source media="(prefers-color-scheme: light)" srcset="https://github.com/Your Name/SaaS-Boilerplate/assets/1328388/f80a8bb5-66da-4772-ad36-5fabc5b02c60">
+          <img alt="Clerk – Authentication & User Management for Next.js" src="https://github.com/Your Name/SaaS-Boilerplate/assets/1328388/f80a8bb5-66da-4772-ad36-5fabc5b02c60">
         </picture>
       </a>
     </td>
@@ -491,7 +491,7 @@ See [LICENSE](LICENSE) for more information.
     </td>
     <td align="center" style=width="33%">
       <a href="https://nextjs-boilerplate.com/pro-saas-starter-kit">
-        <img src="public/assets/images/nextjs-boilerplate-saas.png?raw=true" alt="Next.js SaaS Boilerplate with React" />
+        <img src="public/assets/images/nextjs-boilerplate-saas.png?raw=true" alt="Next.js SaaS Template with React" />
       </a>
     </td>
   </tr>
@@ -506,8 +506,8 @@ See [LICENSE](LICENSE) for more information.
 
 ---
 
-Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ixartz)](https://twitter.com/ixartz)
+Made with ♥ by [CreativeDesignsGuru](https://creativedesignsguru.com) [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Your Name)](https://twitter.com/Your Name)
 
 Looking for a custom boilerplate to kick off your project? I'd be glad to discuss how I can help you build one. Feel free to reach out anytime at contact@creativedesignsguru.com!
 
-[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://github.com/sponsors/ixartz)
+[![Sponsor Next JS Boilerplate](https://cdn.buymeacoffee.com/buttons/default-red.png)](https://github.com/sponsors/Your Name)

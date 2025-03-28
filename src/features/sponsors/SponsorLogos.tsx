@@ -96,7 +96,7 @@ export const SponsorLogos = () => (
     >
       <Image
         src="/assets/images/nextjs-boilerplate-saas.png"
-        alt="Nextjs SaaS Boilerplate"
+        alt="Nextjs SaaS Template"
         width="128"
         height="30"
       />
